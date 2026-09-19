@@ -4,53 +4,31 @@
 
 <tr>
 
-<td align="center" width="50%" style="border-right: 1px solid #333; border-bottom: 1px solid #333; padding: 20px;">
+<td align="center" width="50%" style="border-right: 1px solid #333; padding: 20px;">
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
-</td>
-
-<td align="center" width="50%" style="border-bottom: 1px solid #333; padding: 20px;">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="50%" style="border-right: 1px solid #333; padding: 20px;">
-
-**Native App dev & Backend**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?logo=assemblyscript&logoColor=white)
 
 </td>
 
 <td align="center" width="50%" style="padding: 20px;">
 
-**DevTools & Systems**
+**Skills**
 
-![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 </td>
