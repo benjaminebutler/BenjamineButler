@@ -14,6 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?logo=assemblyscript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
 
 </td>
 
